@@ -1,2 +1,11 @@
 # UTCH_Ctrl_Aut_IMEC
-Repositorios para la asignatura de Control Automático de la Universidad Tecnológica de Chihuahua que ocasionalmente imparto
+Estudiantes Septiembre - Diciembre 2024
+Instrucciones:
+1 - Clonar Repositorio
+2 - Crear Branch (Ramal) y nombrarlo con su matricula , ejemplo: /a12345678
+3 - Realizar los ejercicios segun las indicaciones dadas en clase
+5 - Agregar (git add -> git commit ) y enviar (git pull)
+6 - Crear un Pull-Request (PR) de su branch.
+7 - Atender los comentarios del PR
+
+
